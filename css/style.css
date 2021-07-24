@@ -1,0 +1,66 @@
+/*my first css*/
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: grey;
+    color: #fff;
+    line-height: 2rem;
+    margin: 50px;
+}
+
+img {
+    border: 5px solid white ;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    font-style: italic;
+    text-align: center;
+    line-height: 3rem;
+    border: 2px dotted;
+}
+
+cite {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+a:link {
+    text-decoration: none;
+    color: yellow;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    font-size: 1.5rem;
+    color: green;
+}
